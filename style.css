@@ -4,7 +4,9 @@
     height: 10vh;
     background-color: grey;
 }
-
+h1{
+    font-family: 'Fira Code','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .menu {
     font-family: 'Fira Code','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
