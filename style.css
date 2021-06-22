@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
-html {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 .greyline {
     height: 10vh;
@@ -18,6 +15,7 @@ html {
     justify-content: space-around;
     align-items: center;
     margin-left: auto;
+    font-family: 'Fira Code', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .menu li a {
